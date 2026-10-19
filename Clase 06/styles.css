@@ -1,0 +1,48 @@
+.green-lantern {
+  background: #063c2a;
+  border-color: #22c55e;
+  box-shadow: 0 0 20px #22c55e;
+}
+
+.green-lantern h1,
+.green-lantern h3 {
+  color: #86efac;
+}
+
+.flash {
+  background: #520b12;
+  border-color: #ef4444;
+  box-shadow: 0 0 20px #ef4444;
+}
+
+.flash h1 {
+  color: #facc15;
+}
+
+.flash h3 {
+  color: #fecaca;
+}
+
+.batman {
+  background: #171717;
+  border-color: #facc15;
+  box-shadow: 0 0 20px #facc15;
+}
+
+.batman h1,
+.batman h3 
+{
+
+  color: #fde047;
+}
+.caja img {
+  width: 240px;
+  height: 320px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto;
+}
+body {
+  font-family: Arial, sans-serif;
+}
+

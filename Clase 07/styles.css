@@ -1,0 +1,21 @@
+.box{
+width:  200px;
+height: 200px;
+background: green;
+position:relative;
+left:300px;
+
+
+}
+
+
+
+.box-1{
+
+width: 100px;
+height:100px;
+background:tomato;
+position:absolute;
+left:100px;
+top:100px;
+}
